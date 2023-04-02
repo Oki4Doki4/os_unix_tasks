@@ -1,0 +1,48 @@
+  File: fileA
+  Size: 4194305   	Blocks: 8200       IO Block: 4096   regular file
+Device: 10307h/66311d	Inode: 1716308     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ okidoki)   Gid: ( 1000/ okidoki)
+Access: 2023-04-02 11:29:51.832551811 +0500
+Modify: 2023-04-02 11:29:51.800551833 +0500
+Change: 2023-04-02 11:29:51.800551833 +0500
+ Birth: -
+  File: fileB
+  Size: 4194305   	Blocks: 24         IO Block: 4096   regular file
+Device: 10307h/66311d	Inode: 1716310     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/ okidoki)   Gid: ( 1000/ okidoki)
+Access: 2023-04-02 11:29:51.856551794 +0500
+Modify: 2023-04-02 11:29:51.840551806 +0500
+Change: 2023-04-02 11:29:51.840551806 +0500
+ Birth: -
+  File: fileC
+  Size: 4194305   	Blocks: 24         IO Block: 4096   regular file
+Device: 10307h/66311d	Inode: 1716314     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/ okidoki)   Gid: ( 1000/ okidoki)
+Access: 2023-04-02 11:29:51.872551784 +0500
+Modify: 2023-04-02 11:29:51.888551772 +0500
+Change: 2023-04-02 11:29:51.888551772 +0500
+ Birth: -
+  File: fileD
+  Size: 4194305   	Blocks: 32         IO Block: 4096   regular file
+Device: 10307h/66311d	Inode: 1716315     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/ okidoki)   Gid: ( 1000/ okidoki)
+Access: 2023-04-02 11:29:51.888551772 +0500
+Modify: 2023-04-02 11:29:51.912551757 +0500
+Change: 2023-04-02 11:29:51.912551757 +0500
+ Birth: -
+  File: fileA.gz
+  Size: 4111      	Blocks: 16         IO Block: 4096   regular file
+Device: 10307h/66311d	Inode: 1716311     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ okidoki)   Gid: ( 1000/ okidoki)
+Access: 2023-04-02 11:29:51.832551811 +0500
+Modify: 2023-04-02 11:29:51.800551833 +0500
+Change: 2023-04-02 11:29:51.856551794 +0500
+ Birth: -
+  File: fileB.gz
+  Size: 4111      	Blocks: 16         IO Block: 4096   regular file
+Device: 10307h/66311d	Inode: 1716313     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/ okidoki)   Gid: ( 1000/ okidoki)
+Access: 2023-04-02 11:29:51.872551784 +0500
+Modify: 2023-04-02 11:29:51.840551806 +0500
+Change: 2023-04-02 11:29:51.872551784 +0500
+ Birth: -
