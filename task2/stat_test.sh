@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "test 1337" > test.txt
-echo -e "PID\vlock\vunlock" > result.txt
+echo -e "PID  lock  unlock" > result.txt
 for i in {1..10}
 do
   ./main test.txt -s 1 &
